@@ -1,6 +1,6 @@
 # PATIKA DEV HTML ODEV 1
 
-![Proje Görseli](../Project5/HTML%20%C3%96DEV%201.jpg)
+![Proje Görseli](https://patika-prod.s3-eu-central-1.amazonaws.com/userFiles/razumihin/projects/ktKh3B46S5ZjEqy9L-ilk-web-sayfasi)
 
 ---
 
